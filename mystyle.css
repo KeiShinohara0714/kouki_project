@@ -1,2 +1,3 @@
-　h1 {color: #F0A050;}
-　p.sample1 {border: double 10px #0000ff;}
+h1 {color: #F0A050;}
+p.sample1 {border: double 10px #0000ff;}
+p.sample2 {border: inset 10px #ff0000;}
