@@ -1,9 +1,10 @@
  h1 {color: #F0A050;}
- p.sample1 {border: double 10px #0066ff;}
- p.sample2 {border: inset 10px #ff0000f5;}
- p.sample3{border:inset 10px #b466cc;}
- p.sample4{border:inset 10px #1384f5;}
- p.sample5{border:inset 10px #fff570;}
- p.sample6{border:inset 10px #2af37ed7;}
- p.sample7{border:inset 10px #ff8000ce;}
- p.sample8{border:inset 10px #44ff15;}
+ p.sample1{border: inset 10px #ff0000f5;}
+ p.sample2{border:inset 10px #fff570;}
+ p.sample3{border:inset 10px #ff8000ce;}
+ p.sample4{border:inset 10px #44ff15;}
+ p.sample5{border:inset 10px #2af37ed7;}
+ p.sample6{border:inset 10px #0066ff;}
+ p.sample7{border:inset 10px #1384f5;}
+ p.sample8{border:inset 10px #b466cc;}
+ 
