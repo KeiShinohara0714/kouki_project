@@ -1,11 +1,11 @@
-function txtchange1() {
-  document.getElementById('txt1').innerHTML = 'サイクルヒット';  
+function txtchange2() {
+  document.getElementById('txt2').innerHTML = 'サイクルヒット';  
 }
-function imgchange1() {
+function imgchange2() {
   document.getElementById('logo').src = './image/cycle hits.jpeg';    
 }
-function show_innerHTMLtxt1(){
-  var result1 = document.getElementById('txt1').innerHTML;
+function show_innerHTMLtxt2(){
+  var result2 = document.getElementById('txt2').innerHTML;
 alert(result1);    
 }
 function show_innerHTML(){

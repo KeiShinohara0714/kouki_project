@@ -1,11 +1,11 @@
-function txtchange1() {
-  document.getElementById('txt1').innerHTML = 'クワッドアクセル(4回転アクセル)';  
+function txtchange4() {
+  document.getElementById('txt4').innerHTML = 'クワッドアクセル(4回転アクセル)';  
 }
-function imgchange1() {
+function imgchange4() {
   document.getElementById('logo').src = './image/quad accelerator.jpeg';    
 }
-function show_innerHTMLtxt1(){
-  var result1 = document.getElementById('txt1').innerHTML;
+function show_innerHTMLtxt4(){
+  var result4 = document.getElementById('txt4').innerHTML;
 alert(result1);    
 }
 function show_innerHTML(){

@@ -1,11 +1,11 @@
-function txtchange1() {
+function txtchange5() {
   document.getElementById('txt1').innerHTML = 'チキータ';  
 }
-function imgchange1() {
+function imgchange5() {
   document.getElementById('logo').src = './image/chiquita.jpeg';    
 }
-function show_innerHTMLtxt1(){
-  var result1 = document.getElementById('txt1').innerHTML;
+function show_innerHTMLtxt5(){
+  var result5 = document.getElementById('txt5').innerHTML;
 alert(result1);    
 }
 function show_innerHTML(){
