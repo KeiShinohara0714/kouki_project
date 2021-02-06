@@ -8,7 +8,7 @@ function show_innerHTMLtxt5(){
   var result5 = document.getElementById('txt5').innerHTML;
 alert(result1);    
 }
-function show_innerHTML(){
+function show_innerHTML5(){
   var result = document.getElementById('logo').innerHTML;
 alert(result);    
 }
