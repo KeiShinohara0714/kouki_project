@@ -2,8 +2,8 @@
  <html lang="ja">
  <head>
 <meta charset="UTF-8">
-<title>情報学特講Ⅱ 後期プロジェクト</title>
 <link rel="stylesheet" href="mystyle.css">
+<script src="ex1-1.js"></script>
 <h1>好きなスポーツ</h1>
 <div id="txt1" >
 <input type="button" value="サッカー" onclick="txtchange1();">1人で3点取ることを何という?</div>
@@ -12,20 +12,6 @@
 <input type="button" value="画像の変更" onclick="imgchange1();">
 <img src='./image/soccer.jpeg' id="logo" alt="soccer Logo"></div>
 <br>
-function txtchange1() {
-  document.getElementById('txt1').innerHTML = 'ハットトリック!';  
-}
-function imgchange1() {
-  document.getElementById('logo').src = './image/hat trick.jpeg';    
-}
-function show_innerHTMLtxt1(){
-  var result1 = document.getElementById('txt1').innerHTML;
-alert(result1);    
-}
-function show_innerHTML(){
-  var result = document.getElementById('logo').innerHTML;
-alert(result);    
-}
 
 </body>
  </html>
