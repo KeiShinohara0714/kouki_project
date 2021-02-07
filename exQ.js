@@ -12,3 +12,6 @@ function hinto1(){
 function hinto2(){
    alert('2020年シーズンでは右打者として最年少で2000安打を達成された選手です!')
 }    
+function hinto3(){
+   alert('背番号6の選手です!')
+}  
