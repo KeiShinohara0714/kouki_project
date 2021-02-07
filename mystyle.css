@@ -1,4 +1,5 @@
- h1 {color: #F0A050;}
+ h1 {color: #f0a050;}
+ p.sample1{border: inset 10px #ff0303;}
  p.sample1{border: inset 10px #ff0000;}
  p.sample2{border:inset 10px #fff570;}
  p.sample3{border:inset 10px #ff8000ce;}
@@ -6,7 +7,7 @@
  p.sample5{border:inset 10px #2af37ed7;}
  p.sample6{border:inset 10px #0066ff;}
  p.sample7{border:inset 10px #1384f5;}
- p.sample8{border:inset 10px #b466cc;}
- p.sample9{border:inset 10px #f345cd;}
+ p.sample8{border:inset 10px #e194f8;}
+ p.sample9{border:inset 10px #c850f7;}
  p.sample10{border:inset 10px #ff00aa;}
  
