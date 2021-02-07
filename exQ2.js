@@ -1,5 +1,5 @@
-function nazo(){
-  if(document.getElementById('answer').value == '坂本勇人選手'){
+function nazoQ2(){
+  if(document.getElementById('answerQ2').value == '坂本勇人選手'){
      alert('正解です!');
 } else {
  alert('違います!');
